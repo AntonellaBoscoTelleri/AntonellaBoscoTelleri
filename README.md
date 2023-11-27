@@ -1,12 +1,14 @@
 # Hi! i'm *Antonella Bosco Telleri* 
- ##  ~ *Back-End Programer* ~
+ ##  ~ *Programer* ~
 
-I am *17 years old*, I study at a technical school where I practice **Back-End** and **Front-End**, I specialize in Back-End. 
-A large part of my projects were from school, I like to make the *pages work* well and *test them*.
+I am a 17-year-old technical school student.
+I like programming and I am interested in the *Back-End* of websites, along with *testing*.
+
 
 The languages ​​that I use are:
-1. Php 🟣
-2. Java 🟠
-3. HTML 🔴
-4. CSS 🔵
+1. Php 
+2. Java 
+3. HTML 
+4. CSS 
+5. MySQL 
 
