@@ -2,8 +2,6 @@
  ##  ~ *Programador Back-end* ~
 
 
-
-
 Los lenguajes que se usar:
 - Php 🟣
 - Java 🟠
@@ -13,4 +11,5 @@ Los lenguajes que se usar:
 
 Los lenguajes que estoy aprendiendo:
 - JS 🔴
+
 
